@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119114150716",
+    "project_id": "libfinal-6c82b",
+    "storage_bucket": "libfinal-6c82b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119114150716:android:7c20639691e2ada20d6439",
+        "android_client_info": {
+          "package_name": "com.android.example.libfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4N5__QjNiPAP12lUIdKpQh2QuM2JKIes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
